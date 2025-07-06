@@ -1,0 +1,6 @@
+﻿fastapi
+uvicorn
+torch
+diffusers
+pillow
+transformers
